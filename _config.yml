@@ -15,22 +15,22 @@ categories_path : categories.html
 tags_path : tags.html
 
 #BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
-BASE_PATH : http://goileo.top
+BASE_PATH : http://yyxyz.github.io
 
 description : 深沉的意志，恢宏的想象和炽热的情感
-title : Goileo Lee
+title : yyxyz
 logo : /assets/images/avatar.jpg
 #cover : /assets/images/background-cover.jpg
 
 
 author:
-  name: Goileo Lee
-  maxim: Stay hungry,Stay foolish
+  name: yyxyz
+  maxim: Stay hungry, Stay foolish
   role: Jekyll Theme
-  email: goileolee@gmail.com
-  github: goileolee
-  twitter: goileolee
-  facebook: goileolee
-  googleplus: +goileolee
-  bio: "Hi, 我是goileolee"
+  email: yyxyz2011@gmail.com
+  github: yyxyz
+  twitter: yyxyz
+  facebook: yyxyz
+  googleplus: +yyxyz2011
+  bio: "Hi, 我是 yyxyz"
   uno-dbyll: /assets/images/avatar.jpg
