@@ -6,7 +6,7 @@ date:   2018-01-02 14:01:00
 categories: ubuntu 
 
 ---
-# Ubuntu Shadowsocks Privoxy 客户端配置
+### Ubuntu Shadowsocks Privoxy 客户端配置
 
 干啥的不说了,ubuntu下Shadowsocks不能正常使用,需通过Privoxy中转
  

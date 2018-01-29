@@ -8,7 +8,7 @@ categories: ubuntu
 ---
 
 https://zhuanlan.zhihu.com/p/28795673
-# Vim配置及插件安装自动化脚本
+### Vim配置及插件安装自动化脚本
 
 [原文链接：Vim配置及插件安装自动化脚本 in wangzhike.github.io](https://wangzhike.github.io/posts/8f8a9ec7/)
 ## 1. 简介

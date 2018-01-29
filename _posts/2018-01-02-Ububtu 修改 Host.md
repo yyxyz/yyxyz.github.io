@@ -6,7 +6,7 @@ date:   2018-01-02 14:01:00
 categories: ubuntu 
 
 ---
-# Ubuntu修改hosts方法
+### Ubuntu修改hosts方法
 
 以下是Ubuntu修改hosts方法。
 ## 1、修改hosts

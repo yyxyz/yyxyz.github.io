@@ -7,7 +7,7 @@ categories: ubuntu
 
 ---
 
-# Linux教程：如何查找并移除Ubuntu上陈旧的PPA仓库
+### Linux教程：如何查找并移除Ubuntu上陈旧的PPA仓库
  - 首先，找出那些引起“404 无法找到”错误的PPA。
 
  `sudo apt-get update | grep "Failed"`

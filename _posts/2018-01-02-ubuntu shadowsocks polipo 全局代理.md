@@ -6,7 +6,7 @@ date:   2018-01-02 14:01:00
 categories: ubuntu 
 
 ---
-# [ubuntu shadowsocks polipo 全局代理](http://dearmadman.com/2015/08/30/use-shadowsocks-in-ubuntu/)
+### [ubuntu shadowsocks polipo 全局代理](http://dearmadman.com/2015/08/30/use-shadowsocks-in-ubuntu/)
 
 ## 安装shadowsocks
 
