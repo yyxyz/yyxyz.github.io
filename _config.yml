@@ -20,7 +20,7 @@ BASE_PATH : https://yyxyz.github.io
 description : 深沉的意志，恢宏的想象和炽热的情感
 title : yyxyz
 logo : /assets/images/avatar.jpg
-#cover : /assets/images/background-cover.jpg
+cover : /assets/images/background-cover.jpg
 
 
 author:
