@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[ubuntu shadowsocks polipo 全局代理"
+title:  "ubuntu shadowsocks polipo 全局代理"
 category: ubuntu
 date:   2018-01-02 14:01:00
 categories: ubuntu 

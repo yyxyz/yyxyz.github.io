@@ -8,6 +8,7 @@ categories: ubuntu
 ---
 
 ### Ubuntu anaconda 使用
+
 ## 出现 command not found: conda  时，输入下面的语句
  ` export PATH="/home/cad/anaconda3/bin:$PATH" `
 
